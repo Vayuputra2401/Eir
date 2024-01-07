@@ -61,3 +61,12 @@ except Exception as e:
         raise e
 '''
 
+'''
+Run this export command to export them as an environment variable in Bash.
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/Vayuputra2401/Eir.mlflow \
+export MLFLOW_TRACKING_USERNAME=Vayuputra2401 \
+export MLFLOW_TRACKING_PASSWORD=9cc461c8e9f783f26911074e4f07322d31c9b5f9 \
+
+'''
+
