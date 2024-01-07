@@ -19,3 +19,22 @@
 [2024-01-07 00:31:44,129: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-01-07 16:54:00,501: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2024-01-07 16:54:00,509: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 17:03:14,786: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 17:03:14,796: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 17:03:14,799: INFO: common: created directory at: artifacts]
+[2024-01-07 17:03:14,803: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-07 17:06:46,098: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 17:18:45,508: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2024-01-07 17:18:45,508: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 17:18:49,382: INFO: main: *******************]
+[2024-01-07 17:18:49,383: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 17:18:49,386: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-07 17:18:49,389: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-07 17:18:49,390: INFO: common: created directory at: artifacts]
+[2024-01-07 17:18:49,391: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-07 17:18:50,065: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 17:18:50,398: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
